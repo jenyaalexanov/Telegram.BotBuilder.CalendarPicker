@@ -5,7 +5,22 @@
 	<LangVersion>10.0</LangVersion>
     <Nullable>enable</Nullable>
     <VersionPrefix>1.0.0</VersionPrefix>
+    <Company></Company>
+    <Authors>Jenya Alexanov</Authors>
+    <Copyright>MIT</Copyright>
+    <Description>Calendar and Date Picker for your telegram bot</Description>
+    <RepositoryUrl>https://github.com/jenyaalexanov/Telegram.BotBuilder.CalendarPicker</RepositoryUrl>
+    <PackageTags>calendar;date,calendarpicker;datepicker;telegram;telegrambot;bot;picker;</PackageTags>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageIcon>CalendarPicker.Nuget.png</PackageIcon>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\icons\CalendarPicker.Nuget.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
