@@ -1,5 +1,9 @@
 # Telegram.BotBuilder.CalendarPicker
 
+![Nuget](https://img.shields.io/nuget/v/Telegram.BotBuilder.CalendarPicker?style=for-the-badge)
+![Nuget](https://img.shields.io/nuget/dt/Telegram.BotBuilder.CalendarPicker?style=for-the-badge)
+[![GitHub license](https://img.shields.io/github/license/jenyaalexanov/Telegram.BotBuilder.CalendarPicker?style=for-the-badge)](https://github.com/jenyaalexanov/Telegram.BotBuilder.CalendarPicker/blob/master/LICENSE)
+
 <img src="./icons/CalendarPicker.Large.png" alt="Telegram CalendarPicker Logo" width=200 height=200 />
 
 - Telegram.BotBuilder.CalendarPicker is a library that allows you to pick a date from your telegram bot.
