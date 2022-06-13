@@ -64,3 +64,5 @@ Or as Webhook with adding command string and uri of your webhook:
 
     // or as Webhook
     await app.UseCalendarPickerWebhook("calendar", new Uri("https://example.com/calendarbot/webhook"));
+
+You can find **all these examples** and **work with them** in the [webapi project](https://github.com/jenyaalexanov/Telegram.BotBuilder.CalendarPicker/tree/master/Telegram.BotBuilder.CalendarPicker.WebApi)
