@@ -20,7 +20,7 @@ Add Telegram.BotBuilder.CalendarPicker to your project:
 
 **Package Manager**
 
-	PM> Install-Package Telegram.BotBuilder.CalendarPicker
+	PM> NuGet\Install-Package DistributedLock.MongoDatabase -Version 3.1.1
   
 **.NET CLI**
 
